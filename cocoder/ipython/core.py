@@ -26,13 +26,13 @@ def ExceptIpyCocoder(
     stb = itb.structured_traceback(etype, evalue, tb)
     sstb = itb.stb2text(stb)
 
-    error_message = f"error sheel=={shell}, error_type_document=={etype.__doc__}, error_value=={evalue}, error message in ipython cell=={sstb}"
-    
+    error_message = f"error_type_document=={etype.__doc__}, error_value=={evalue}, error message in ipython cell=={sstb}"
     if environ.get("_BARD_API_KEY") is not None:
         try:
             advice_msg = receive_bard_advice(environ["_BARD_API_KEY"], error_message)
             print(advice_msg)
         except Exception as e:
+            print(f'Cocoder not worked: {e}')
             pass
 
     elif environ.get("_OPEN_AI_API") is not None:
@@ -41,8 +41,8 @@ def ExceptIpyCocoder(
                 environ["_OPEN_AI_MODEL"], environ["_OPEN_AI_API"], error_message
             )
             print(advice_msg)
-            
         except Exception as e:
+            print(f'Cocoder not worked: {e}')
             pass
 
     else:
