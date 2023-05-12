@@ -46,5 +46,5 @@ def ExceptIpyCocoder(
             pass
 
     else:
-        print("There is no system variable for AI inference.")
+        print("There is no system variable available for AI inference")
 
