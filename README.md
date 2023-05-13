@@ -56,7 +56,7 @@ See the Python package [BardAPI](https://github.com/dsdanielpark/bardapi) for mo
     import os
     os.environ['_OPEN_AI_API'] = 'sk-xxxxxxxxxxx'
     os.environ['_OPEN_AI_MODEL'] = "gpt-3.5-turbo" 
-    # os.environ['_PROMPT_COMMAND'] = "You can make customized prompt in here. This variable will be merged with traced error message."
+    # os.environ['_PROMPT_COMMAND'] = "You can make customized prompt in here."
 
     print(1/0)
     ```
@@ -69,7 +69,7 @@ See the Python package [BardAPI](https://github.com/dsdanielpark/bardapi) for mo
     import cocoder.ipython
     import os
     os.environ['_BARD_API_KEY'] = 'xxxxxxxxxxx'
-    # os.environ['_PROMPT_COMMAND'] = "You can make customized prompt in here. This variable will be merged with traced error message."
+    # os.environ['_PROMPT_COMMAND'] = "You can make customized prompt in here."
 
     print(1/0)
     ```
@@ -80,7 +80,7 @@ See the Python package [BardAPI](https://github.com/dsdanielpark/bardapi) for mo
     import os
     os.environ['_BARD_API_KEY'] = 'xxxxxxxxxxx'
     os.environ["_BARD_ADVICE_LANG"]='ko'
-    # os.environ['_PROMPT_COMMAND'] = "You can make customized prompt in here. This variable will be merged with traced error message."
+    # os.environ['_PROMPT_COMMAND'] = "You can make customized prompt in here."
 
     print(1/0)
     ```
@@ -91,7 +91,7 @@ See the Python package [BardAPI](https://github.com/dsdanielpark/bardapi) for mo
     import os
     os.environ['_BARD_API_KEY'] = 'xxxxxxxxxxx'
     os.environ["_BARD_ADVICE_LANG"]='jp'
-    # os.environ['_PROMPT_COMMAND'] = "You can make customized prompt in here. This variable will be merged with traced error message."
+    # os.environ['_PROMPT_COMMAND'] = "You can make customized prompt in here."
 
     print(1/0)
     ```
@@ -105,7 +105,7 @@ See the Python package [BardAPI](https://github.com/dsdanielpark/bardapi) for mo
     import os, sys
     os.environ['_OPEN_AI_API'] = 'sk-xxxxxxxxxxx'
     os.environ['_OPEN_AI_MODEL'] = "gpt-3.5-turbo" 
-    # os.environ['_PROMPT_COMMAND'] = "You can make customized prompt in here. This variable will be merged with traced error message."
+    # os.environ['_PROMPT_COMMAND'] = "You can make customized prompt in here."
 
     sys.excepthook = ExceptPyCocoder.__call__
     print(1/0)
@@ -120,7 +120,7 @@ See the Python package [BardAPI](https://github.com/dsdanielpark/bardapi) for mo
     import os, sys
     os.environ['_BARD_API_KEY'] = 'xxxxxxx'
     # os.environ["_BARD_ADVICE_LANG"]='ko','jp'
-    # os.environ['_PROMPT_COMMAND']="You can make customized prompt in here. This variable will be merged with traced error message."
+    # os.environ['_PROMPT_COMMAND']="You can make customized prompt in here."
 
     sys.excepthook = ExceptPyCocoder.__call__
     print(1/0)
