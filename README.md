@@ -70,7 +70,7 @@ See the Python package [BardAPI](https://github.com/dsdanielpark/bardapi) for mo
 ### With [Google Bard](https://bard.google.com/)
 - Supported Language: Korean, English, Japanese
 
-    *English* <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1G0bkZRUXAxbWBBrJoAfLhsTxGIZcHeLq/view?usp=sharing)
+    *English* <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1vNrmxhNnfwbEPB2Qr-dkh9yWP4RuhehL/view?usp=sharing)
 
     ```python
     import cocoder.ipython
