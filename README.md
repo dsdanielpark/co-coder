@@ -29,10 +29,11 @@ pip install git+https://github.com/dsdanielpark/Co-Coder.git
 ```
 
 <br>
+
 ## Tutorial
 Tutorials for all features can be found in this [folder](./tutorials/). Examples have been prepared for all possible cases.
 
-
+<br>
 
 ## Authentication
 ### Open AI
