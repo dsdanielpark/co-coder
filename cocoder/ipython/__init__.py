@@ -10,6 +10,6 @@ try:
 except:
     pass
 
-__version__ = "0.1.4"
+__version__ = "0.1.5"
 __author__ = "daniel park <parkminwoo1991@gmail.com>"
 __all__ = ["ExceptIpyCocoder", "receive_bard_advice", "receive_openai_advice", "get_resp_openai_advice"]
