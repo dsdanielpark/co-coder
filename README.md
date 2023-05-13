@@ -13,9 +13,6 @@ Development Status :: 3 - Alpha <br>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdsdanielpark%2FCo-Coder&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Co-Coder&edge_flat=false"/></a>
 </p>
 
-
-![](./assets/bardapi.gif)
-
 This package is compatible with both Python and iPython. It enhances traceback error messages by appending hints and example codes related to the error. Prompt engineering allows you to get the answers you need quickly. With a one-time setup, you can receive debugging hints for multiple errors, saving time you would have spent searching on [StackOverflow](https://stackoverflow.com/) or Googling.
 
 <br>
