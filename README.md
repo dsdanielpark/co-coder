@@ -2,9 +2,10 @@ Development Status :: 3 - Alpha
 
 
 <p align="center">
-<a href="https://bard.google.com/"><img src="./assets/cocoder_logo.png" height="300px"><br>
+<a href="https://github.com/dsdanielpark/Co-Coder"><img src="./assets/cocoder_logo.png" height="400px"><br>
 Interactive Python package that provides debugging hints in real time
 </p>
+
 
 <p align="center">
 <a><img alt="PyPI package" src="https://img.shields.io/badge/pypi-CoCoder-blue"></a>
