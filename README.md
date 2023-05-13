@@ -49,8 +49,10 @@ See the Python package [BardAPI](https://github.com/dsdanielpark/bardapi) for mo
 
 # Ipython
 
-### With Open AI chat GPT
+### With Open AI chat GPT 
 - Supported Language: English 
+
+    *English* <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E5Q-lnWStG1MqtnGCr5pzInlfWt2uc2S?usp=sharing)
     ```python
     import cocoder.ipython
     import os
@@ -61,10 +63,13 @@ See the Python package [BardAPI](https://github.com/dsdanielpark/bardapi) for mo
     print(1/0)
     ```
 
+
+
 ### With Google Bard
 - Supported Language: Korean, English, Japanese
 
-    *English*
+    *English* <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E5Q-lnWStG1MqtnGCr5pzInlfWt2uc2S?usp=sharing)
+
     ```python
     import cocoder.ipython
     import os
@@ -73,8 +78,9 @@ See the Python package [BardAPI](https://github.com/dsdanielpark/bardapi) for mo
 
     print(1/0)
     ```
+    
 
-    *Korean*
+    *Korean* <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E5Q-lnWStG1MqtnGCr5pzInlfWt2uc2S?usp=sharing)
     ```python
     import cocoder.ipython
     import os
@@ -85,7 +91,7 @@ See the Python package [BardAPI](https://github.com/dsdanielpark/bardapi) for mo
     print(1/0)
     ```
 
-    *Japanese*
+    *Japanese* <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E5Q-lnWStG1MqtnGCr5pzInlfWt2uc2S?usp=sharing)
     ```python
     import cocoder.ipython
     import os
@@ -99,7 +105,9 @@ See the Python package [BardAPI](https://github.com/dsdanielpark/bardapi) for mo
 
 # Python
 ### With Open AI chat GPT
-- Supported Language: English 
+- Supported Language: English <br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E5Q-lnWStG1MqtnGCr5pzInlfWt2uc2S?usp=sharing)
+
     ```python
     from cocoder import ExceptPyCocoder
     import os, sys
@@ -111,10 +119,10 @@ See the Python package [BardAPI](https://github.com/dsdanielpark/bardapi) for mo
     print(1/0)
     ```
 
-### With Google Bard
+### With Google Bard 
 - Supported Language: Korean, English, Japanese
 
-    *English*
+    *English* <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E5Q-lnWStG1MqtnGCr5pzInlfWt2uc2S?usp=sharing)
     ```python
     from cocoder import ExceptPyCocoder
     import os, sys
@@ -128,15 +136,14 @@ See the Python package [BardAPI](https://github.com/dsdanielpark/bardapi) for mo
 
 
 
-
-
 <br>
 
 ## Scripts
 In the BardAPI scripts [folder](./scripts/), I have released a script to help you compare [OpenAI-ChatGPT](./scripts/openai_api.ipynb) and [Google-Bard](./scripts/google_api.ipynb). I hope they will help more developers.
 
-## License
-Just give me and [them](https://github.com/acheong08/Bard) a star.
+# License 
+CoCoder: MIT <br>
+Licenses apply the each [dependencies package](https://choosealicense.com/licenses/), and the created posts follow [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## Bugs and Issues
 Sincerely grateful for any reports on new features or bugs. Your valuable feedback on the code is highly appreciated.
