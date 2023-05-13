@@ -20,7 +20,7 @@ This package is compatible with both Python and iPython. It enhances traceback e
 <br>
 
 
-## Install  <a href="https://bard.google.com/"><img src="./assets/cocoder_blue.png" height="80px"></a>
+## Install 
 The latest stable release (and required dependencies) can be installed from PyPI:
 ```
 pip install cocoder
