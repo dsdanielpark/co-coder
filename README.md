@@ -1,9 +1,7 @@
-Development Status :: 3 - Alpha <br>
-*Copyright (c) MinWoo Park 2023*
-
-# Co-Coder
-
-<p align="left">
+<p align="center">
+<a href="https://github.com/dsdanielpark/Co-Coder"><img src="./assets/cocoder_main.jpg"></a>
+</p>
+<p align="center">
 <a><img alt="PyPI package" src="https://img.shields.io/badge/pypi-CoCoder-blue"></a>
 <a href="https://pypi.org/project/bardapi/"><img alt="PyPI" src="https://img.shields.io/pypi/v/cocoder"></a>
 <!-- <a href="https://pepy.tech/project/bardapi"><img alt="Downloads" src="https://pepy.tech/badge/bardapi"></a> -->
@@ -159,4 +157,8 @@ Sincerely grateful for any reports on new features or bugs. Your valuable feedba
 
 ## Reference 
 [1] https://github.com/dsdanielpark/BARD_API <br>
-[2] https://github.com/dsdanielpark/ExceptNotifier
+[2] https://github.com/dsdanielpark/ExceptNotifier <br><br>
+
+Development Status :: 3 - Alpha <br>
+*Copyright (c) MinWoo Park 2023*
+
