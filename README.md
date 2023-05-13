@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/dsdanielpark/Co-Coder"><img src="./assets/cocoder_main.jpg"></a>
+<a href="https://github.com/dsdanielpark/Co-Coder"><img src="./assets/cocoder_main.png"></a>
 </p>
 <p align="center">
 <a><img alt="PyPI package" src="https://img.shields.io/badge/pypi-CoCoder-blue"></a>
