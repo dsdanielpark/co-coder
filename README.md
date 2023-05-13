@@ -10,7 +10,7 @@ Development Status :: 3 - Alpha <br>
 <a><img alt="commit update" src="https://img.shields.io/github/last-commit/dsdanielpark/Co-Coder?color=blue"></a>
 <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
 <a href="https://www.buymeacoffee.com/parkminwoo"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdsdanielpark%2FCo-Coder&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Co-Coder&edge_flat=false"/></a>
+<a href="https://github.com/dsdanielpark/Co-Coder"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdsdanielpark%2FCo-Coder&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Co-Coder&edge_flat=false"/></a>
 </p>
 
 ![](./assets/cocoder.gif)
@@ -53,7 +53,7 @@ See the Python package [BardAPI](https://github.com/dsdanielpark/bardapi) for mo
 
 # Ipython
 
-### With Open AI chat GPT 
+### With [Open AI chat GPT](https://openai.com/blog/chatgpt)
 - Supported Language: English 
 
     *English* <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1i8PLhWY2YRIUtRV7Llf2dHn4x8RYmCYi/view?usp=share_link)
@@ -69,7 +69,7 @@ See the Python package [BardAPI](https://github.com/dsdanielpark/bardapi) for mo
 
 
 
-### With Google Bard
+### With [Google Bard](https://bard.google.com/)
 - Supported Language: Korean, English, Japanese
 
     *English* <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1G0bkZRUXAxbWBBrJoAfLhsTxGIZcHeLq/view?usp=sharing)
@@ -108,7 +108,7 @@ See the Python package [BardAPI](https://github.com/dsdanielpark/bardapi) for mo
 
 
 # Python
-### With Open AI chat GPT
+### With [Open AI chat GPT](https://openai.com/blog/chatgpt)
 - Supported Language: English <br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1zh2tX0Xtq5YqrWgNiJ9nF1RmaJgAvQ8E/view?usp=sharing)
 
@@ -123,7 +123,7 @@ See the Python package [BardAPI](https://github.com/dsdanielpark/bardapi) for mo
     print(1/0)
     ```
 
-### With Google Bard 
+### With [Google Bard](https://bard.google.com/)
 - Supported Language: Korean, English, Japanese
 
     *English* <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1Ax3y7_2PgBsuK_d6z374vvYrmClSp7JX/view?usp=sharing)
@@ -143,18 +143,19 @@ See the Python package [BardAPI](https://github.com/dsdanielpark/bardapi) for mo
 <br>
 
 ## Scripts
-In the BardAPI scripts [folder](./scripts/), I have released a script to help you compare [OpenAI-ChatGPT](./scripts/openai_api.ipynb) and [Google-Bard](./scripts/google_api.ipynb). I hope they will help more developers.
+In the BardAPI scripts [folder](https://github.com/dsdanielpark/BARD_API/tree/main/scripts), I have released a script to help you compare [OpenAI-ChatGPT](https://github.com/dsdanielpark/BARD_API/blob/main/scripts/openai_api.ipynb) and [Google-Bard](https://github.com/dsdanielpark/BARD_API/blob/main/scripts/google_api.ipynb). I hope they will help more developers.
 
 ## License 
-CoCoder: MIT <br>
+- CoCoder: MIT <br>
+
 Licenses apply the each [dependencies package](https://choosealicense.com/licenses/), and the created posts follow [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## Bugs and Issues
 Sincerely grateful for any reports on new features or bugs. Your valuable feedback on the code is highly appreciated.
 
 ## Contacts
-:envelope: Core maintainer: [Daniel Park, South Korea](https://github.com/DSDanielPark) <br>
-:envelope: E-mail: parkminwoo1991@gmail.com <br>
+- Maintainer: [Daniel Park, South Korea](https://github.com/DSDanielPark) <br>
+- E-mail: parkminwoo1991@gmail.com <br>
 
 ## Reference 
 [1] https://github.com/dsdanielpark/BARD_API <br>
