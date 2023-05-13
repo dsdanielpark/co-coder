@@ -153,8 +153,8 @@ Licenses apply the each [dependencies package](https://choosealicense.com/licens
 Sincerely grateful for any reports on new features or bugs. Your valuable feedback on the code is highly appreciated.
 
 ## Contacts
-:envelope: Core maintainer: [Daniel Park, South Korea](https://github.com/DSDanielPark) <br>
-:envelope: E-mail: parkminwoo1991@gmail.com <br>
+- Core maintainer: [Daniel Park, South Korea](https://github.com/DSDanielPark) <br>
+- E-mail: parkminwoo1991@gmail.com <br>
 
 ## Reference 
 [1] https://github.com/dsdanielpark/BARD_API <br>
