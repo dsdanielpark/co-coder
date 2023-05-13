@@ -65,7 +65,7 @@ See the Python package [BardAPI](https://github.com/dsdanielpark/bardapi) for mo
 ### With Google Bard
 - Supported Language: Korean, English, Japanese
 
-    *English* <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E5Q-lnWStG1MqtnGCr5pzInlfWt2uc2S?usp=sharing)
+    *English* <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1G0bkZRUXAxbWBBrJoAfLhsTxGIZcHeLq/view?usp=sharing)
 
     ```python
     import cocoder.ipython
@@ -77,7 +77,7 @@ See the Python package [BardAPI](https://github.com/dsdanielpark/bardapi) for mo
     ```
     
 
-    *Korean* <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E5Q-lnWStG1MqtnGCr5pzInlfWt2uc2S?usp=sharing)
+    *Korean* <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1yZJKjkV3zQI-sJkS48PDpePqxoMMfYRA/view?usp=sharing)
     ```python
     import cocoder.ipython
     import os
@@ -88,7 +88,7 @@ See the Python package [BardAPI](https://github.com/dsdanielpark/bardapi) for mo
     print(1/0)
     ```
 
-    *Japanese* <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E5Q-lnWStG1MqtnGCr5pzInlfWt2uc2S?usp=sharing)
+    *Japanese* <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/178mt8_kkBN4-z408No_4qW8XfCWSL-wh/view?usp=sharing)
     ```python
     import cocoder.ipython
     import os
@@ -103,7 +103,7 @@ See the Python package [BardAPI](https://github.com/dsdanielpark/bardapi) for mo
 # Python
 ### With Open AI chat GPT
 - Supported Language: English <br>
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E5Q-lnWStG1MqtnGCr5pzInlfWt2uc2S?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1zh2tX0Xtq5YqrWgNiJ9nF1RmaJgAvQ8E/view?usp=sharing)
 
     ```python
     from cocoder import ExceptPyCocoder
@@ -119,7 +119,7 @@ See the Python package [BardAPI](https://github.com/dsdanielpark/bardapi) for mo
 ### With Google Bard 
 - Supported Language: Korean, English, Japanese
 
-    *English* <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E5Q-lnWStG1MqtnGCr5pzInlfWt2uc2S?usp=sharing)
+    *English* <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1Ax3y7_2PgBsuK_d6z374vvYrmClSp7JX/view?usp=sharing)
     ```python
     from cocoder import ExceptPyCocoder
     import os, sys
