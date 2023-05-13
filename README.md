@@ -1,5 +1,5 @@
-Development Status :: 3 - Alpha
-
+Development Status :: 3 - Alpha <br>
+*Copyright (c) MinWoo Park 2023*
 
 # Co-Coder
 
