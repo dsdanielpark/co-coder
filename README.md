@@ -1,7 +1,9 @@
 <p align="center">
 <a href="https://github.com/dsdanielpark/Co-Coder"><img src="./assets/cocoder_main2.jpg"></a>
 </p>
+
 <p align="center">
+Your AI coding mate, Co-Coder! <br><br>
 <a><img alt="PyPI package" src="https://img.shields.io/badge/pypi-CoCoder-black"></a>
 <!-- <a href="https://pepy.tech/project/bardapi"><img alt="Downloads" src="https://pepy.tech/badge/bardapi"></a> -->
 <a><img alt="commit update" src="https://img.shields.io/github/last-commit/dsdanielpark/Co-Coder?color=black"></a>
@@ -10,6 +12,8 @@
 <a href="https://www.buymeacoffee.com/parkminwoo"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px"></a> -->
 <a href="https://github.com/dsdanielpark/Co-Coder"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdsdanielpark%2FCo-Coder&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=CoCoder&edge_flat=false"/></a>
 </p>
+
+Co-Coder is a Python package that streamlines error debugging from [Open AI chat GPT](https://openai.com/blog/chatgpt) and [Google Bard](https://bard.google.com/) by providing hints, example code, and relevant Stack Overflow links, all by simply importing it and setting the environment variable.
 
 ![](./assets/cocoder_230513.gif)
 
