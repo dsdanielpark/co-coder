@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+# Copyright 2023 parkminwoo
 from cocoder.chatbase.bard_receiver import receive_bard_advice
 from cocoder.chatbase.openai_receiver import receive_openai_advice
 from cocoder.chatbase.openai_receiver import get_resp_openai_advice
