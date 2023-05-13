@@ -48,7 +48,7 @@ Visit [Open AI API](https://platform.openai.com/docs/introduction) for more info
 - View API keys → + Create new secret key
 
 ### Google Bard  
-See the Python package [BardAPI](https://github.com/dsdanielpark/bardapi) for more information.
+See the Python package [BardAPI](https://github.com/dsdanielpark/BARD-API) for more information.
 - Visit https://bard.google.com/
 - F12 for console
 - Session: Application → Cookies → Copy the value of  __Secure-1PSID cookie.
