@@ -54,7 +54,7 @@ See the Python package [BardAPI](https://github.com/dsdanielpark/bardapi) for mo
 ### With Open AI chat GPT 
 - Supported Language: English 
 
-    *English* <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1G0bkZRUXAxbWBBrJoAfLhsTxGIZcHeLq/view?usp=sharing)
+    *English* <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1i8PLhWY2YRIUtRV7Llf2dHn4x8RYmCYi/view?usp=share_link)
     ```python
     import cocoder.ipython
     import os
