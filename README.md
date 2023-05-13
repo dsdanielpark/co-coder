@@ -157,5 +157,5 @@ Sincerely grateful for any reports on new features or bugs. Your valuable feedba
 :envelope: E-mail: parkminwoo1991@gmail.com <br>
 
 ## Reference 
-[1] https://github.com/dsdanielpark/BARD_API
+[1] https://github.com/dsdanielpark/BARD_API <br>
 [2] https://github.com/dsdanielpark/ExceptNotifier
