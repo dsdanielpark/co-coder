@@ -48,7 +48,7 @@ Visit [Open AI API](https://platform.openai.com/docs/introduction) for more info
 - View API keys → + Create new secret key
 
 ### Google Bard  
-See the Python package [BardAPI](https://github.com/dsdanielpark/BARD-API) for more information.
+See the Python package [BardAPI](https://github.com/dsdanielpark/Bard-API) for more information.
 - Visit https://bard.google.com/
 - F12 for console
 - Session: Application → Cookies → Copy the value of  __Secure-1PSID cookie.
@@ -147,7 +147,7 @@ See the Python package [BardAPI](https://github.com/dsdanielpark/BARD-API) for m
 <br>
 
 ## Scripts
-In the BardAPI scripts [folder](https://github.com/dsdanielpark/BARD_API/tree/main/scripts), I have released a script to help you compare [OpenAI-ChatGPT](https://github.com/dsdanielpark/BARD_API/blob/main/scripts/openai_api.ipynb) and [Google-Bard](https://github.com/dsdanielpark/BARD_API/blob/main/scripts/google_api.ipynb). I hope they will help more developers.
+In the BardAPI scripts [folder](https://github.com/dsdanielpark/Bard-API/tree/main/scripts), I have released a script to help you compare [OpenAI-ChatGPT](https://github.com/dsdanielpark/Bard-API/blob/main/scripts/openai_api.ipynb) and [Google-Bard](https://github.com/dsdanielpark/Bard-API/blob/main/scripts/google_api.ipynb). I hope they will help more developers.
 
 ## License 
 - CoCoder: MIT <br>
@@ -162,7 +162,7 @@ Sincerely grateful for any reports on new features or bugs. Your valuable feedba
 - E-mail: parkminwoo1991@gmail.com <br>
 
 ## Reference 
-[1] https://github.com/dsdanielpark/BARD_API <br>
+[1] https://github.com/dsdanielpark/Bard-API <br>
 [2] https://github.com/dsdanielpark/ExceptNotifier <br><br>
 
 Development Status :: 3 - Alpha <br>
