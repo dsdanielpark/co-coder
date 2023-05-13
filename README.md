@@ -20,7 +20,7 @@ This package is compatible with both Python and iPython. It enhances traceback e
 <br>
 
 
-## Install
+## Install  <a href="https://bard.google.com/"><img src="./assets/cocoder_blue.png" height="80px"></a>
 The latest stable release (and required dependencies) can be installed from PyPI:
 ```
 pip install cocoder
@@ -32,7 +32,7 @@ pip install git+https://github.com/dsdanielpark/Co-Coder.git
 
 <br>
 
-## Tutorial
+## Tutorial 
 Tutorials for all features can be found in this [folder](./tutorials/). Examples have been prepared for all possible cases.
 
 <br>
@@ -43,7 +43,7 @@ Visit [Open AI API](https://platform.openai.com/docs/introduction) for more info
 - Visit https://platform.openai.com/account/api-keys
 - View API keys → + Create new secret key
 
-### Google Bard
+### Google Bard  
 See the Python package [BardAPI](https://github.com/dsdanielpark/bardapi) for more information.
 - Visit https://bard.google.com/
 - F12 for console
