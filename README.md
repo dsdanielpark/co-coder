@@ -13,7 +13,7 @@
 
 
 The Python package Co-Coder shows information about errors from  [Open AI chat GPT](https://openai.com/blog/chatgpt) and [Google Bard](https://bard.google.com/). Right below the tracebacked error, you will receive information about the error, debugging hints, and example code. Also, you can use it by modifying the prompt appropriately. Co-Coder helps you automatically get information about errors without Googling or StackOverflow. If you use Openai's chatGPT model, it also returns links to Stack Overflow related to the error. 
-The CoCoder package is executed by simply importing Co-Coder from Python and IPython and setting the environment variable once.
+The Co-Coder package is executed by simply importing Co-Coder from Python and IPython and setting the environment variable once.
 
 <br>
 
