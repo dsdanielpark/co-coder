@@ -25,7 +25,7 @@ version = get_version()
 
 setup(
     name="cocoder",
-    version="0.1.4",
+    version="0.1.5",
     author="daniel park",
     author_email="parkminwoo1991@gmail.com",
     description="",
