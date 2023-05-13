@@ -2,8 +2,9 @@
 <a href="https://github.com/dsdanielpark/Co-Coder"><img src="./assets/cocoder_main2.jpg"></a>
 </p>
 
+<h3 align="center"> Your AI coding mate, Co-Coder. </h3>
+
 <p align="center">
-Your AI coding mate, Co-Coder! <br><br>
 <a><img alt="PyPI package" src="https://img.shields.io/badge/pypi-CoCoder-black"></a>
 <!-- <a href="https://pepy.tech/project/bardapi"><img alt="Downloads" src="https://pepy.tech/badge/bardapi"></a> -->
 <a><img alt="commit update" src="https://img.shields.io/github/last-commit/dsdanielpark/Co-Coder?color=black"></a>
