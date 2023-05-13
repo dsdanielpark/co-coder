@@ -138,7 +138,7 @@ See the Python package [BardAPI](https://github.com/dsdanielpark/bardapi) for mo
 ## Scripts
 In the BardAPI scripts [folder](./scripts/), I have released a script to help you compare [OpenAI-ChatGPT](./scripts/openai_api.ipynb) and [Google-Bard](./scripts/google_api.ipynb). I hope they will help more developers.
 
-# License 
+## License 
 CoCoder: MIT <br>
 Licenses apply the each [dependencies package](https://choosealicense.com/licenses/), and the created posts follow [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
