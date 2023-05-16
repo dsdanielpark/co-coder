@@ -123,7 +123,7 @@ See the Python package [BardAPI](https://github.com/dsdanielpark/Bard-API) for m
     os.environ['_OPEN_AI_MODEL'] = "gpt-3.5-turbo" 
     # os.environ['_PROMPT_COMMAND'] = "You can make customized prompt in here."
 
-    sys.excepthook = ExceptPyCocoder.__call__
+    sys.excepthook = ExceptPyCocoder()
     print(1/0)
     ```
 
@@ -138,7 +138,7 @@ See the Python package [BardAPI](https://github.com/dsdanielpark/Bard-API) for m
     # os.environ["_BARD_ADVICE_LANG"]='ko','jp'
     # os.environ['_PROMPT_COMMAND']="You can make customized prompt in here."
 
-    sys.excepthook = ExceptPyCocoder.__call__
+    sys.excepthook = ExceptPyCocoder()
     print(1/0)
     ```
 
