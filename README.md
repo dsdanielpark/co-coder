@@ -7,7 +7,7 @@
 <p align="center">
 <a><img alt="PyPI package" src="https://img.shields.io/badge/pypi-CoCoder-black"></a>
 <!-- <a href="https://pepy.tech/project/bardapi"><img alt="Downloads" src="https://pepy.tech/badge/bardapi"></a> -->
-<a><img alt="commit update" src="https://img.shields.io/github/last-commit/dsdanielpark/Co-Coder?color=black"></a>
+<!-- <a><img alt="commit update" src="https://img.shields.io/github/last-commit/dsdanielpark/Co-Coder?color=black"></a> -->
 <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-black.svg"></a>
 <!-- <a href="https://pypi.org/project/cocoder/"><img alt="PyPI" src="https://img.shields.io/pypi/v/cocoder"></a>
 <a href="https://www.buymeacoffee.com/parkminwoo"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px"></a> -->
@@ -48,7 +48,7 @@ Visit [Open AI API](https://platform.openai.com/docs/introduction) for more info
 - View API keys → + Create new secret key
 
 ### Google Bard  
-See the Python package [BardAPI](https://github.com/dsdanielpark/bardapi) for more information.
+See the Python package [BardAPI](https://github.com/dsdanielpark/Bard-API) for more information.
 - Visit https://bard.google.com/
 - F12 for console
 - Session: Application → Cookies → Copy the value of  __Secure-1PSID cookie.
@@ -123,7 +123,7 @@ See the Python package [BardAPI](https://github.com/dsdanielpark/bardapi) for mo
     os.environ['_OPEN_AI_MODEL'] = "gpt-3.5-turbo" 
     # os.environ['_PROMPT_COMMAND'] = "You can make customized prompt in here."
 
-    sys.excepthook = ExceptPyCocoder.__call__
+    sys.excepthook = ExceptPyCocoder()
     print(1/0)
     ```
 
@@ -138,7 +138,7 @@ See the Python package [BardAPI](https://github.com/dsdanielpark/bardapi) for mo
     # os.environ["_BARD_ADVICE_LANG"]='ko','jp'
     # os.environ['_PROMPT_COMMAND']="You can make customized prompt in here."
 
-    sys.excepthook = ExceptPyCocoder.__call__
+    sys.excepthook = ExceptPyCocoder()
     print(1/0)
     ```
 
@@ -147,7 +147,7 @@ See the Python package [BardAPI](https://github.com/dsdanielpark/bardapi) for mo
 <br>
 
 ## Scripts
-In the BardAPI scripts [folder](https://github.com/dsdanielpark/BARD_API/tree/main/scripts), I have released a script to help you compare [OpenAI-ChatGPT](https://github.com/dsdanielpark/BARD_API/blob/main/scripts/openai_api.ipynb) and [Google-Bard](https://github.com/dsdanielpark/BARD_API/blob/main/scripts/google_api.ipynb). I hope they will help more developers.
+In the BardAPI scripts [folder](https://github.com/dsdanielpark/Bard-API/tree/main/scripts), I have released a script to help you compare [OpenAI-ChatGPT](https://github.com/dsdanielpark/Bard-API/blob/main/scripts/openai_api.ipynb) and [Google-Bard](https://github.com/dsdanielpark/Bard-API/blob/main/scripts/google_api.ipynb). I hope they will help more developers.
 
 ## License 
 - CoCoder: MIT <br>
@@ -162,7 +162,7 @@ Sincerely grateful for any reports on new features or bugs. Your valuable feedba
 - E-mail: parkminwoo1991@gmail.com <br>
 
 ## Reference 
-[1] https://github.com/dsdanielpark/BARD_API <br>
+[1] https://github.com/dsdanielpark/Bard-API <br>
 [2] https://github.com/dsdanielpark/ExceptNotifier <br><br>
 
 Development Status :: 3 - Alpha <br>
