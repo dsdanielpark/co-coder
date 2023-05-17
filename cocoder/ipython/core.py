@@ -30,18 +30,17 @@ def ExceptIpyCocoder(
         try:
             openai_advice = receive_openai_advice(
                 environ["_OPEN_AI_MODEL"], environ["_OPEN_AI_API"], traced_error_message
-            )  
+            )
             print(openai_advice)
         except Exception as e:
-            print(f'Cocoder not worked: {e}')
+            print(f"Cocoder not worked: {e}")
             pass
     if environ.get("_BARD_API_KEY") is not None:
         try:
             bard_advice = receive_bard_advice(
                 environ["_BARD_API_KEY"], traced_error_message
-            )  
+            )
             print(bard_advice)
         except Exception as e:
-            print(f'Cocoder not worked: {e}')
+            print(f"Cocoder not worked: {e}")
             pass
-

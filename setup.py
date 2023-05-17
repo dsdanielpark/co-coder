@@ -34,10 +34,7 @@ setup(
     url="https://github.com/dsdanielpark/Co-Coder",
     packages=find_packages(exclude=[]),
     python_requires=">=3.6",
-    install_requires=[
-        "openai",
-        "bardapi"
-    ],
+    install_requires=["openai", "bardapi"],
     keywords="Python Debuger, Python AI Debug, Realtime Debuger, Search, Find Debug Infomation, Bard, ChatGPT, GoogleBard, OpenAIchatGPT",
     classifiers=[
         "Development Status :: 2 - Pre-Alpha",
