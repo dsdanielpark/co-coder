@@ -37,6 +37,7 @@ def stack_error_msg(etype: str, value: str, tb: object) -> str:
         stack.append(f)
         f = f.f_back
     stack.reverse()
-    traced_error_message = f"traced_error_type=={excType} traced_error_type_document=={etype.__doc__} traced_error_value=={value} stack infomation=={stack}"
+    traced_error_message = f"traced_error_type=={excType} traced_error_type_document=={etype.__doc__} " \
+                           f"traced_error_value=={value} stack infomation=={stack}"
 
     return traced_error_message

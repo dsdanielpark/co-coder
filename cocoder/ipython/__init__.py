@@ -1,11 +1,11 @@
 # Copyright 2023 parkminwoo
-from cocoder.ipython.core import ExceptIpyCocoder
+from cocoder.ipython.core import except_ipy_cocoder
 from cocoder.aicore.bard_receiver import receive_bard_advice
 from cocoder.aicore.openai_receiver import receive_openai_advice
 from cocoder.aicore.openai_receiver import get_resp_openai_advice
 
 try:
-    get_ipython().set_custom_exc((Exception,), ExceptIpyCocoder)
+    get_ipython().set_custom_exc((Exception,), except_ipy_cocoder)
 except:
     pass
 

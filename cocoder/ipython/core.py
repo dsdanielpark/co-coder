@@ -5,7 +5,7 @@ from cocoder.aicore.bard_receiver import receive_bard_advice
 from cocoder.aicore.openai_receiver import receive_openai_advice
 
 
-def ExceptIpyCocoder(
+def except_ipy_cocoder(
     shell: object, etype: object, evalue: object, tb: object, tb_offset=1
 ) -> None:
     """ExceptNotifier function for overriding custom execute in ipython for sending Kakaotalk.
