@@ -109,6 +109,19 @@ See the Python package [BardAPI](https://github.com/dsdanielpark/Bard-API) for m
 
     print(1/0)
     ```
+    
+    *Other languages* <br>
+    The bardapi package, starting from version 0.1.9, utilizes the translation feature from the Python package called googletrans. This allows users to receive debugging assistance in various languages, which can be helpful for students or beginners in Python. It provides a small but valuable aid to overcome language barriers and understand error messages in different languages, enabling users to find solutions. This update opens up opportunities for more people to start programming and receive support in problem-solving. 
+    ```python
+    import cocoder.ipython
+    import os
+    os.environ['_BARD_API_KEY'] = 'xxxxxxxxxxx'
+    os.environ["_BARD_ADVICE_LANG"]='arabic'
+    # os.environ['_PROMPT_COMMAND'] = "You can make customized prompt in here."
+
+    print(1/0)
+    ```
+    
 
 
 # Python
@@ -135,7 +148,7 @@ See the Python package [BardAPI](https://github.com/dsdanielpark/Bard-API) for m
     from cocoder import ExceptPyCocoder
     import os, sys
     os.environ['_BARD_API_KEY'] = 'xxxxxxx'
-    # os.environ["_BARD_ADVICE_LANG"]='ko','jp'
+    # os.environ["_BARD_ADVICE_LANG"]='ko','jp','arabic' etc.
     # os.environ['_PROMPT_COMMAND']="You can make customized prompt in here."
 
     sys.excepthook = ExceptPyCocoder()
