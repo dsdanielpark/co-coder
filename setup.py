@@ -35,7 +35,7 @@ setup(
     packages=find_packages(exclude=[]),
     python_requires=">=3.6",
     install_requires=["openai",
-                      "bardapi @ git+https://github.com/dsdanielpark/Bard-API.git@0.1.11-multilang"],
+                      "bardapi @ git+https://github.com/dsdanielpark/Bard-API.git@0.1.11-multilang2"],
 
     keywords="Python Debuger, Python AI Debug, Realtime Debuger, Search, Find Debug Infomation, Bard, ChatGPT, GoogleBard, OpenAIchatGPT",
     classifiers=[
