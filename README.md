@@ -111,7 +111,7 @@ See the Python package [BardAPI](https://github.com/dsdanielpark/Bard-API) for m
     ```
     
     *Other languages* <br>
-    The bardapi package, starting from version 0.1.9, utilizes the translation feature from the Python package called googletrans. This allows users to receive debugging assistance in various languages, which can be helpful for students or beginners in Python. It provides a small but valuable aid to overcome language barriers and understand error messages in different languages, enabling users to find solutions. This update opens up opportunities for more people to start programming and receive support in problem-solving. 
+    The bardapi package, starting from version 0.1.11 github dev version, utilizes the translation feature from the Python package called [deep-translator](https://pypi.org/project/deep-translator/). This allows users to receive debugging assistance in various languages, which can be helpful for students or beginners in Python. It provides a small but valuable aid to overcome language barriers and understand error messages in different languages, enabling users to find solutions. This update opens up opportunities for more people to start programming and receive support in problem-solving. 
     ```python
     import cocoder.ipython
     import os
