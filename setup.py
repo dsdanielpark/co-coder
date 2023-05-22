@@ -25,7 +25,7 @@ version = get_version()
 
 setup(
     name="cocoder",
-    version="0.1.5",
+    version="0.1.6",
     author="daniel park",
     author_email="parkminwoo1991@gmail.com",
     description="",
@@ -34,7 +34,9 @@ setup(
     url="https://github.com/dsdanielpark/Co-Coder",
     packages=find_packages(exclude=[]),
     python_requires=">=3.6",
-    install_requires=["openai", "bardapi"],
+    install_requires=["openai",
+                      "bardapi @ git+https://github.com/dsdanielpark/Bard-API.git@0.1.11-multilang"],
+
     keywords="Python Debuger, Python AI Debug, Realtime Debuger, Search, Find Debug Infomation, Bard, ChatGPT, GoogleBard, OpenAIchatGPT",
     classifiers=[
         "Development Status :: 2 - Pre-Alpha",
